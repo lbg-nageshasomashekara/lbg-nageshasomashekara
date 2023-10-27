@@ -1,7 +1,7 @@
 ## Hi there, I am Nagesh!  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 ---
 - 👋 Hi, I’m @Nagesh
-- 👀 I’m interested in   Devops engineering
+- 👀 I’m working on Devops engineering
 - 💞️ I’m looking to collaborate on projects surrounding engineering and GCP
 - 🚀 How to reach me: Here
 
